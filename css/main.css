@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.background{
+    background: linear-gradient(to bottom right, rgb(53, 2, 66)15%, rgb(251, 4, 169));
+    height: 100vh;
+}
+.background img{
+    width: 45%;
+}
+.middle-logo{
+    margin-top: 65%;
+}
+.background2{
+    background-image: url(../assets/images/lyftimage.jpg)
+}
+.background2 img{
+    width: 80%;
+    margin-top: 60%;
+}
+.btn-start{
+    margin-top: 50%; 
+    margin-left:22%;
+}
+.btn-style{
+    background-color: transparent;
+    border:1px solid white;
+    border-radius: 5px;
+    color: white;
+    padding: 15px 20px;
+    font-size: 20px;
+}
+.flag{
+    width: 10px;
+    height: 10px;
+}
