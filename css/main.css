@@ -36,3 +36,21 @@
     width: 10px;
     height: 10px;
 }
+.list-flag{
+    width: 20%;
+    outline: 1px solid blue;
+}
+.list-flag li{
+    list-style: none;    
+}
+.box-flag span{
+    
+    width: 10%;
+    margin-top: 0;
+    outline:  1px solid rgb(128, 115, 0);
+}
+
+.box-flag{
+    width: 40%;
+    outline: 1px solid red;
+}
